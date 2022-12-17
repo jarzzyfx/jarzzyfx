@@ -1,4 +1,4 @@
- # 🐱‍🏍 Miracle Mark
+ # **🐱‍🏍** Miracle Mark
 
 **'Fullstack Web App Developer'**
 
@@ -7,3 +7,5 @@ All problems are handled systematically from scratch and are build by piecing ea
 
 <a href="#"></a>
 ---
+
+### 
