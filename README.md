@@ -9,6 +9,18 @@ All problems are handled systematically from scratch and are build by piecing ea
     <a href="#">
         <img alt="twitter followers img" title="twitter followers" src="https://custom-icon-badges.demolab.com/badge/Twitter-129-blue?style=for-the-badge&logo=person-add&logoColor=white"/>
     </a>
+    <a href="#">
+        <img alt="image link to my discord account" title="discord account" src="https://custom-icon-badges.demolab.com/badge/-Discord-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"/>
+    </a>
+    <a href="#">
+        <img alt="image link to my email account" title="email account" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=unread&logoColor=white"/>
+    </a>
+    <a href="#">
+        <img alt="image link to my git hub repositories" title="github repositories" src="https://custom-icon-badges.demolab.com/badge/-GitHub%20Repos%208-blue?style=for-the-badge&logo=workflow&logoColor=white"/>
+    </a>
+    <a href="#">
+        <img alt="image link to my git hub followers" title="github followers" src="https://custom-icon-badges.demolab.com/badge/-GitHub%20Followers%201-black?style=for-the-badge&logo=people&logoColor=white"/>
+    </a>
 </p>
 
 ---
