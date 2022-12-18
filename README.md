@@ -59,7 +59,6 @@ All problems are handled systematically from scratch and are build by piecing ea
 ### 👩‍💻 Code Editor
 
 <img align="left" alt="vsCode" title="vsCode"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-<img align="left" alt="githubDev" title="githubDev"  width="30px" style="padding-right:10px" src=""/>
 
 </div>
 #
