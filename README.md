@@ -88,6 +88,7 @@ All problems are handled systematically from scratch and are build by piecing ea
 
 <details>
 <summary><h3> ✈ My coding journey</h3></summary>
-
+My coding journey started in the early year of 2020, during the pandemic. While i was at home for almost three months, i started to explore new opportunities that will prevent me from been idle.
+  So i started watching various coding roadmap videos on youtube and immediately i was engrossed with the idea of been a programmer, because it was just a marvel to me how lines of code can actually solve real world problems. Lets just say i fell in love with solving problems 
 
 </details>
