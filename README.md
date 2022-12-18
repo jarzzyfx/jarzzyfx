@@ -6,6 +6,6 @@ i am a fullstack website developer that aims to bring the dreams, expectations a
 All problems are handled systematically from scratch and are build by piecing each component together, with the goal in mind to achieve the end results.
 
 <a href="#"></a>
----
+**---**
 
-### 
+### Language And Tools
