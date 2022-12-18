@@ -27,7 +27,7 @@ All problems are handled systematically from scratch and are build by piecing ea
 
 # 🛠 Language And Tools
 
-<div display="flex" flex-direction="column">
+<div style="display:flex,flex-direction:column">
 
 <div>
 
