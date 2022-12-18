@@ -42,7 +42,6 @@ All problems are handled systematically from scratch and are build by piecing ea
 
 </div>
 
-#
 
 <div>
 
@@ -55,16 +54,12 @@ All problems are handled systematically from scratch and are build by piecing ea
 <img align="left" alt="mysql" title="mysql"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
 
-#
-
 <div>
 
 ### 🎨 Desing Software
 
 <img align="left" alt="figma" title="figma"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 </div>
-
-#
 
 <div>
 
@@ -75,13 +70,11 @@ All problems are handled systematically from scratch and are build by piecing ea
 <img align="left" alt="github" title="github"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 </div>
 
-#
-
 <div>
 
 ### 👩‍💻 Code Editor
 
-<img align="left" alt="vsCode" title="vsCode"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>s
+<img align="left" alt="vsCode" title="vsCode"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
 </div>
 
 </div>
