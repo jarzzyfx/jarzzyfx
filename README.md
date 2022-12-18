@@ -25,4 +25,38 @@ All problems are handled systematically from scratch and are build by piecing ea
 
 ---
 
-### Language And Tools
+# 🛠 Language And Tools
+
+### 💻 Frontend
+
+<img align="left" alt="html5" title="html5"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img align="left" alt="css3" title="css3"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+<img align="left" alt="javascript" title="javascript"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="react" title="react"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+<img align="left" alt="mui" title="mui"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
+<img align="left" alt="three.js" title="three.js"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg"/>
+
+### 🔐 Backend
+
+<img align="left" alt="node.js" title="node.js"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"/>
+<img align="left" alt="mongo db" title="mongo db"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+<img align="left" alt="express" title="express"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>
+<img align="left" alt="firebase" title="firebase"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+<img align="left" alt="mysql" title="mysql"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+
+### 🎨 Desing Software
+
+<img align="left" alt="figma" title="figma"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+
+### 🎛 Version Control 
+
+<img align="left" alt="git" title="git"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+
+<img align="left" alt="github" title="github"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+
+### 👩‍💻 Code Editor
+
+<img align="left" alt="vsCode" title="vsCode"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
+<img align="left" alt="githubDev" title="githubDev"  width="30px" style="padding-right:10px" src=""/>
+
+#
