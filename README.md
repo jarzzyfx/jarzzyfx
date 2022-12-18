@@ -40,7 +40,7 @@ All problems are handled systematically from scratch and are build by piecing ea
 <img align="left" alt="mui" title="mui"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"/>
 <img align="left" alt="three.js" title="three.js"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg"/>
 
-</div><br>
+</div><br><br>
 
 <div>
 
@@ -51,14 +51,14 @@ All problems are handled systematically from scratch and are build by piecing ea
 <img align="left" alt="express" title="express"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>
 <img align="left" alt="firebase" title="firebase"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
 <img align="left" alt="mysql" title="mysql"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-</div><br>
+</div><br><br>
 
 <div>
 
 ### 🎨 Desing Software
 
 <img align="left" alt="figma" title="figma"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-</div><br>
+</div><br><br>
 
 <div>
 
@@ -67,7 +67,7 @@ All problems are handled systematically from scratch and are build by piecing ea
 <img align="left" alt="git" title="git"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
 
 <img align="left" alt="github" title="github"  width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
-</div><br>
+</div><br><br>
 
 <div>
 
