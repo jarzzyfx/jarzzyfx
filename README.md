@@ -79,3 +79,9 @@ All problems are handled systematically from scratch and are build by piecing ea
 </div><br>
 
 #
+
+<!-- git hub stat -->
+
+![Miracle Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=jarzzyfx&show_icons=true&theme=gruvbox)
+
+#
